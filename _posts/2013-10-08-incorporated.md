@@ -1,41 +1,41 @@
 ---
 layout: post
 
-title: Jekyll Incorporated Features
-subtitle: "What's in the box"
+title: Inet2Cloud Inc.
+subtitle: "Welcome to Inet2Cloud"
 cover_image: blog-cover.jpg
 
-excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
+excerpt: "iNet2Cloud Inc provides product solutions softwate in IoT and Cloud space."
 
 author:
-  name: Karri Saarinen
-  twitter: karrisaarinen
-  gplus: 100687498195339762535 
-  bio: Co-founder, Design
+  name: Pradeep Bhargava
+  twitter: TBD
+  gplus: TBD
+  bio: Founder
   image: ks.png
 ---
 
-Incorporated provides a great typography, responsive design, author details, semantic markup and more.
+iNet2Cloud Inc. provides products, software, solutions in IoT and Cloud space.
 
-You can set customize post covers, and other things directly in the post front matter:
+Currently we are in stealth mode..:
 
 {% highlight yaml %}
 layout: post
 
-title: Jekyll Incorporated Features
-subtitle: "What's in the box"
+title: iNet2Cloud Inc.
+subtitle: "Welcome to iNet2Cloud Inc."
 
 # Setup post cover image in /images/
 cover_image: blog-cover.jpg
 
-excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
+excerpt: "iNet2Cloud Inc provides product, software, solutions in IoT and Cloud space."
 
-# Author details, including Google Plus authorship
+# Author details, 
 author:
-  name: Karri Saarinen
-  twitter: karrisaarinen
-  gplus: 100687498195339762535 
-  bio: Co-founder, Design
+  name: Pradeep Bhargava
+  twitter: TBD
+  gplus: TBD 
+  bio: Founder
   image: ks.jpg
   
 # Keep it as draft, not published in index.html or feed.xml
@@ -62,21 +62,18 @@ $accent: #2077b2;
 config.yml:
 {% highlight yaml %}
 inc:
-  # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
-  cover_image:  blog-cover.jpg
+
   
   # Company information
-  company:      Incorporated
-  url:          http://incorporated.sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  about_link:   https://sendtoinc.com/about/
+  company:      iNet2Cloud Inc
+  url:          http://www.inet2cloud.com/
+  facebook:     TBD
+  twitter:      TBD
+  about_link:   TBD
   
   # Product Information
-  product_link: http://incorporated.sendtoinc.com/
-  tagline:      "Get a modern blog for your company"
+  product_link: http://www.inet2cloud.com
+  tagline:      "Welcome to iNet2Cloud Inc."
   
   # Comments
   disqus:
