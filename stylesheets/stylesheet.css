@@ -254,3 +254,12 @@ a {
     background-color: #8AD9FF;
         border-radius: 8px;
 }
+#menu ul{
+  height: auto;
+  padding: 8px 0px
+  margin: 0px;
+}
+#menu li{
+  display: inline;
+  padding: 20px;
+}
