@@ -1,1 +1,9 @@
-<link href="style.css" rel="stylesheet" type="text/css" />
+ul.horizontal{
+margin:0;
+padding:0;
+}
+ul.horizontal li{
+display:block;
+float:left;
+padding:0 10px;
+}
