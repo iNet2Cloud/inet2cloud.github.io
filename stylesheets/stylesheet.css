@@ -254,7 +254,8 @@ a {
     text-align: center;
     text-shadow: 3px 2px 3px #333333;
     background-color: #159957;
-        border-radius: 8px;
+     background-image: linear-gradient(120deg, #155799, #159957);
+    border-radius: 8px;
 }
 #menu ul{
   height: auto;
